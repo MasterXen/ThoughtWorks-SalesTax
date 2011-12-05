@@ -4,3 +4,5 @@
 /ThoughtWorks-Trains/bin
 /ThoughtWorks-Trains/obj
 /TestResults
+/_ReSharper.ThoughtWorks-Trains
+*.suo

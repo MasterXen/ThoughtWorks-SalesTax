@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtWorks-Trains", "ThoughtWorks-Trains\ThoughtWorks-Trains.csproj", "{6116E57E-D50D-42DE-B79F-B19A7023FD41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtWorks-SalesTax", "ThoughtWorks-Trains\ThoughtWorks-SalesTax.csproj", "{6116E57E-D50D-42DE-B79F-B19A7023FD41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtWorks-Test", "ThoughtWorks-Test\ThoughtWorks-Test.csproj", "{B930BDA2-8E5B-4DBD-A468-5BF2562EE31F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtWorks-SalesTax-Test", "ThoughtWorks-Test\ThoughtWorks-SalesTax-Test.csproj", "{B930BDA2-8E5B-4DBD-A468-5BF2562EE31F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C36F1CBD-A086-4290-A347-20CAD97792EB}"
 	ProjectSection(SolutionItems) = preProject
