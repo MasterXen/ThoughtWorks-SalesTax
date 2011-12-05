@@ -8,13 +8,13 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C36F1CBD-A086-4290-A347-20CAD97792EB}"
 	ProjectSection(SolutionItems) = preProject
 		Local.testsettings = Local.testsettings
-		ThoughtWorks-Trains.vsmdi = ThoughtWorks-Trains.vsmdi
+		ThoughtWorks-SalesTax.vsmdi = ThoughtWorks-SalesTax.vsmdi
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
 EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
-		CategoryFile = ThoughtWorks-Trains.vsmdi
+		CategoryFile = ThoughtWorks-SalesTax.vsmdi
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
